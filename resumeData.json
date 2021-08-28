@@ -1,0 +1,112 @@
+{
+  "main": {
+    "name": "Zakki Haris",
+    "occupation": "ReactJS Developer && Flutter Developer",
+    "description": "Freelancer Fullstack Developer",
+    "image": "jack.jpg",
+    "bio": "My name is Zakki, I'm a ReactJS Developer and Flutter Developer",
+    "contactmessage": "",
+    "email": "informaticengineering@gmail.com",
+    "phone": "+62 896-7427-6651",
+    "address": {
+      "street": "JL 1945",
+      "city": "Semarang",
+      "state": "Indonesia",
+      "zip": "CODEX 123"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/zacky.haris.1",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/zakki-abdurrahman-haris-785983118/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/zakki_haris/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/ZakkiHaris",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "Universitas Islam Indonesia",
+        "degree": "Strata-1 Informatika",
+        "graduated": "Mei 2021",
+        "description": "Sangat Memuaskan dengan Perbedaan"
+      }
+    ],
+    "work": [
+      {
+        "company": "Fresh Graduate",
+        "title": "Graduate",
+        "years": "Mei 2021"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
+        "level": "75%"
+      },
+      {
+        "name": "Javascript",
+        "level": "80%"
+      },
+      {
+        "name": "Figma && Adobe XD",
+        "level": "55%"
+      },
+      {
+        "name": "Flutter",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Flutter vs React Native",
+        "category": "Komparasi Flutter dan React Native dalam Pengembangan Perangkat Bergerak",
+        "image": "flutter-vs-react-native.png",
+        "url": "https://dspace.uii.ac.id/bitstream/handle/123456789/30276/15523164%20Zakki%20Abdurrahman%20Haris.pdf?sequence=1&isAllowed=y"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Yang terbaik di antara kalian adalah mereka yang berakhlak paling mulia.",
+        "user": "Muhammad shallallahu alaihi wasallam"
+      },
+      {
+        "text": "Lihatlah orang-orang yang di bawahmu dalam urusan harta dunia, dan jangan sekali-kali melihat yang berada di atasmu, supaya kamu tidak meremehkan karunia Allah yang diberikan kepadamu.",
+        "user": "Muhammad shallallahu alaihi wasallam"
+      }
+    ]
+  }
+}

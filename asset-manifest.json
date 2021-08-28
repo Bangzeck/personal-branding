@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/personal-branding/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/personal-branding/static/js/main.ad841b64.chunk.js",
+    "main.js.map": "/personal-branding/static/js/main.ad841b64.chunk.js.map",
+    "runtime-main.js": "/personal-branding/static/js/runtime-main.2e1ef147.js",
+    "runtime-main.js.map": "/personal-branding/static/js/runtime-main.2e1ef147.js.map",
+    "static/js/2.b0db4067.chunk.js": "/personal-branding/static/js/2.b0db4067.chunk.js",
+    "static/js/2.b0db4067.chunk.js.map": "/personal-branding/static/js/2.b0db4067.chunk.js.map",
+    "static/js/3.0312afbb.chunk.js": "/personal-branding/static/js/3.0312afbb.chunk.js",
+    "static/js/3.0312afbb.chunk.js.map": "/personal-branding/static/js/3.0312afbb.chunk.js.map",
+    "index.html": "/personal-branding/index.html",
+    "static/css/main.ea1455b2.chunk.css.map": "/personal-branding/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.b0db4067.chunk.js.LICENSE.txt": "/personal-branding/static/js/2.b0db4067.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e1ef147.js",
+    "static/js/2.b0db4067.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.ad841b64.chunk.js"
+  ]
+}
